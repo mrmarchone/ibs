@@ -1,0 +1,93 @@
+a{
+    color: white
+}
+a:hover{
+    text-decoration: none;
+    color: white
+}
+body{
+    background-color: #eee;
+}
+.login .form .feat{
+    max-width: 500px;
+    margin:300px auto
+}
+.login .form form h2{
+    font-weight: bolder;
+}
+.login .form .feat input{
+    margin-bottom: 20px
+}
+.header{
+    background-color: black;
+    position: fixed;
+    z-index: 99;
+}
+.header a{
+    color: white;
+}
+.header a:hover{
+    text-decoration: none;
+    color: red
+}
+.header img{
+    margin-top: 10px
+}
+
+.dash{
+    padding-top: 100px;
+}
+.dash img{
+    background-color: black;
+    width: 100px;
+}
+.dash h2{
+    color: #676767
+}
+.dash h2 span{
+    color: red;
+    text-transform: uppercase;
+}
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table td, table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+table tr {
+    background-color: #f2f2f2;
+    cursor: pointer;
+}
+
+table tr:hover {
+    background-color: #ddd;
+}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+/*add con*/
+.construction{
+    background-color: #ccc;
+    border-radius: 20px
+}
+.construction h2{
+    font-weight: bolder
+}
+.construction form {
+    max-width: 600px;
+    margin: 50px auto
+}
+.construction form input{
+    margin-bottom: 10px
+}
+/*add con*/
